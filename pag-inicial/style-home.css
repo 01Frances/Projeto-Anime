@@ -31,7 +31,7 @@
       rgba(0, 0, 0, 0.781) 30%,
       rgba(32, 32, 32, 0) 100% 
     ),
-    url("imagens/tanjiro-kamado-1920x1080-23027.jpg");
+    url("../imagens/tanjiro-kamado-1920x1080-23027.jpg");
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
